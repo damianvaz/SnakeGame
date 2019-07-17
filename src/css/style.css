@@ -1,0 +1,16 @@
+.root
+{
+	-fx-background-color:  #626483;
+}
+
+.label
+{
+	-fx-text-fill: #62d6e8;
+	-fx-font: normal bold 16px 'Sans-Serif';
+	-fx-background-color:  #626483;
+}
+.button
+{
+	-fx-background-color: #b45bcf;
+	-fx-text-fill: white;
+}
