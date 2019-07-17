@@ -19,9 +19,6 @@ Java Runtime Environment 8 or higher:
 <a href="https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html">Download here</a>
 
 
-```
-until finished
-```
 
 
 ## Built With
