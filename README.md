@@ -1,6 +1,5 @@
 # Snake Game
 
-[![License](https://img.shields.io/badge/contact-@DamianVaz-blue.svg?style=flat)](mailto:vaz.damian@gmail.com)
 
 The classic Snake game made with Java and JavaFx
 <p align="center">
